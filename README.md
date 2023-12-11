@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo13321&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&demo_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&dcompact_progress=true)
 <!--
 **Ricardo13321/Ricardo13321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
