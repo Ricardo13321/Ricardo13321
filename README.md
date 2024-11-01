@@ -2,10 +2,11 @@
   <h2>Hello!! I am Ricardo Gabriel Gomes👋</h2>
   <ul>
     <li>🔭 I'm currently looking for my first job opportunity in the field</li>
-    <li>🌱 I'm studying Systems Analysis and Development 3 semester, and I'm also studying C# and game development with the Godot Engine</li>
+    <li>🌱 I'm studying Systems Analysis and Development and I'm also studying C# and game development with the Godot Engine</li>
     <li>📫 How to reach me: <a href="mailto:ricardo005034@gmail.com">ricardo005034@gmail.com</a></li>
     <li>👯 I'm looking to collaborate on creating applications that make people's lives easier and with game development</li>
     <li>🤔 I'm looking for help with programming </li>
+    <li> </li>
     <!--
     <li>💬 Ask me about ...</li>
     <li>😄 Pronouns: ...</li>
