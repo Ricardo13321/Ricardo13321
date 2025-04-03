@@ -6,7 +6,6 @@
     <li>📫 How to reach me: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardo005034@gmail.com</a></li>
     <li>👯 I'm looking to collaborate on creating applications that make people's lives easier and with game development</li>
     <li>🤔 I'm looking for help with programming </li>
-    <li> </li>
     <!--
     <li>💬 Ask me about ...</li>
     <li>😄 Pronouns: ...</li>
