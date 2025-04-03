@@ -17,4 +17,5 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo13321&show_icons=true&theme=merko" style="max-width: 100%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&layout=compact&theme=merko" style="max-width: 100%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&layout=compact&theme=dark" style="max-width: 100%">
 </div>
