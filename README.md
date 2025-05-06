@@ -6,7 +6,7 @@
     <li>📫 How to reach me: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardogabrielgomes6@gmail.com</a></li>
     <li>👯 I'm looking to collaborate on creating applications that make people's lives easier and with game development</li>
     <li>🤔 I'm looking for help with programming </li>
-    <li>Visite my website: <a target="_blank"  href="http://gatogatogatogatogatogato.rf.gd/index.php">click here</a>
+    <li>Visite my website: <a target=”_blank”  href="http://gatogatogatogatogatogato.rf.gd/index.php">click here</a>
     <!--
     <li>💬 Ask me about ...</li>
     <li>😄 Pronouns: ...</li>
