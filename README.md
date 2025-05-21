@@ -1,5 +1,5 @@
 <div>
-  <h2>Hello!! I am Ricardo Gabriel Gomes👋</h2>
+  <strong>Hello!! I am Ricardo Gabriel Gomes👋</strong>
   <hr>
   <ul>
     <li>🔭 I'm currently looking for my first job opportunity in the field</li>
