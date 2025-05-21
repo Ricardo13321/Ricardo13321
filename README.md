@@ -8,6 +8,7 @@
     <li>👯 I'm looking to collaborate on creating applications that make people's lives easier and with game development</li>
     <li>🤔 I'm looking for help with programming </li>
     <li>📑 Look at my portfolio 
+      <hr>
       <a href="https://riki.rf.gd/" target="_blank" rel="noopener">
         Click here
       </a>
