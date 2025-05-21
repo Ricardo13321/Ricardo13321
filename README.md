@@ -1,6 +1,5 @@
 <div>
   <h2>Hello!! I am Ricardo Gabriel Gomes👋</h2>
-  <hr>
   <ul>
     <li>🔭 I'm currently looking for my first job opportunity in the field</li>
     <li>🌱 I'm studying System Development Technician and I'm also studying C# and game development with the Godot Engine</li>
