@@ -46,12 +46,12 @@ No tempo livre, gosto de jogar jogos como R.E.P.O, BlazBlue e outros jogos Coop.
 
 <div>
   <div>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Ricardo13321&show_icons=true&theme=ambient_gradient" style="max-width: 100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo13321&show_icons=true&theme=ambient_gradient" style="max-width: 100%">
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&layout=compact&theme=merko" style="max-width: 100%">-->
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&layout=compact&theme=ambient_gradient" style="max-width: 100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&layout=compact&theme=ambient_gradient" style="max-width: 100%">
   </div>
   <div>
-    <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&layout=pie&theme=ambient_gradient" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&layout=pie&theme=ambient_gradient" >
   </div>
 </div>
 
