@@ -48,8 +48,8 @@ No tempo livre, gosto de jogar jogos como R.E.P.O, BlazBlue e outros jogos Coop.
   <div>
   </div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo13321&layout=pie&theme=ambient_gradient" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo13321&show_icons=true&theme=ambient_gradient" style="max-width: 100%">   
+    <img src="https://github-readme-stats.vercel.app/api?username=Ricardo13321&show_icons=true&theme=transparent" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent">   
   </div>
 </div>
 
