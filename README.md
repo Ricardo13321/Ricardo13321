@@ -46,7 +46,7 @@ No tempo livre, gosto de jogar jogos como R.E.P.O, BlazBlue e outros jogos Coop.
 <img src="https://views.whatilearened.today/views/github/Ricardo13321/views.svg"> <a href="https://github.com/Ricardo13321/"><img src="https://img.shields.io/github/followers/Ricardo13321?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 <div>
-  <div align="center">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Ricardo13321&show_icons=true&theme=transparent" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent">   
   </div>
