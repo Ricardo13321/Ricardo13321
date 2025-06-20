@@ -1,18 +1,21 @@
 #  Hello!! I am Ricardo Gabriel Gomes👋
-- 🔭 I'm currently looking for my first job opportunity in the field
-- 🌱 I'm studying System Development Technician and I'm also studying C# and game development with the Godot Engine
-- 📫 How to reach me: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardogabrielgomes6@gmail.com
-- 👯 I'm looking to collaborate on creating applications that make people's lives easier and with game development
-- 🤔 I'm looking for help with programming
-- 🐱 I love Cats: <a href="http://gatogatogatogatogatogato.rf.gd/index.php" loading="lazy" target="_blank" rel="noopener">click here</a>
+<ul>
+  <li>🔭 I'm currently looking for my first job opportunity in the field</li>
+  <li>🌱 I'm studying System Development Technician and I'm also studying C# and game development with the Godot Engine</li>
+  <li>📫 How to reach me: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardogabrielgomes6@gmail.com</li>
+  <li>👯 I'm looking to collaborate on creating applications that make people's lives easier and with game development</li>
+  <li>🤔 I'm looking for help with programming</li>
+  <li>🐱 I love Cats: <a href="http://gatogatogatogatogatogato.rf.gd/index.php" loading="lazy" target="_blank" rel="noopener">click here</a></li>
+</ul>
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%">
-
-Sou **graduado em Análise e Desenvolvimento de Sistemas - EAD** na **UniCesumar** e atualmente estou estou estudando **Técnico em Desenvolvimento de Sistemas** no **Senai - CTM**, estou focando em aprender sobre desenvolvimento web tanto no Frontend quanto no Backend.
-
+<p>
+Sou graduado em <strong>Análise e Desenvolvimento de Sistemas - EAD</strong> na <strong>UniCesumar</strong> e atualmente estou estou estudando <strong>Técnico em Desenvolvimento de Sistemas</strong> no <strong>Senai - CTM</strong>, estou focando em aprender sobre desenvolvimento web tanto no Frontend quanto no Backend.
+</p>
+<p>
 No tempo livre, gosto de jogar jogos como R.E.P.O, BlazBlue e outros jogos Coop. Caso queira conversar sinta-se livre para entrar em contato comigo.
-  
+</p>
   <div align="center">
     <img height="" loading="lazy" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
   </div>
@@ -52,9 +55,8 @@ No tempo livre, gosto de jogar jogos como R.E.P.O, BlazBlue e outros jogos Coop.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent">   
   </div>
 </div>
-
-##
-### Contatos:
+<hr>
+<h3>Contatos:</h3>
 <div align="center"> 
   <a href="https://www.instagram.com/ricardo_71626/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ricardogabrielgomes6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
