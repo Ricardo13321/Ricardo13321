@@ -2,7 +2,7 @@
 <ul>
   <li>🔭 I'm currently looking for my first job opportunity in the field</li>
   <li>🌱 I'm studying System Development Technician and I'm also studying C# and game development with the Godot Engine</li>
-  <li>📫 How to reach me: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardogabrielgomes6@gmail.com</li>
+  <li>📫 How to reach me: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardogabrielgomes6@gmail.com</a></li>
   <li>👯 I'm looking to collaborate on creating applications that make people's lives easier and with game development</li>
   <li>🤔 I'm looking for help with programming</li>
   <li>🐱 I love Cats: <a href="http://gatogatogatogatogatogato.rf.gd/index.php" loading="lazy" target="_blank" rel="noopener">click here</a></li>
