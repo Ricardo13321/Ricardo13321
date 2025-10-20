@@ -17,7 +17,7 @@ Sou graduado em <strong>Análise e Desenvolvimento de Sistemas - EAD</strong> na
 No tempo livre, gosto de jogar jogos como R.E.P.O, BlazBlue e outros jogos Coop. Caso queira conversar sinta-se livre para entrar em contato comigo.
 </p>
   <div align="center">
-    <img width="80%" loading="lazy" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
+    <img width="80%" loading="lazy" src="https://github.com/Ricardo13321/Ricardo13321/blob/main/watermarked-72931d89-1e5e-405e-8be4-9e29f33b5f33.gif?raw=true">
   </div>
     <h2>Tecnologias e Ferramentas</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
