@@ -1,11 +1,11 @@
-<h3>Hello!! I am Ricardo Gabriel Gomes👋</h3>
+<h3>Olá!! Me chamo Ricardo Gabriel Gomes👋</h3>
 <ul>
-  <li>🔭 I'm currently looking for my first job opportunity in the field</li>
-  <li>🌱 I'm studying System Development Technician and I'm also studying C# and game development with the Godot Engine</li>
-  <li>📫 How to reach me: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardogabrielgomes6@gmail.com</a></li>
-  <li>👯 I'm looking to collaborate on creating applications that make people's lives easier and with game development</li>
-  <li>🤔 I'm looking for help with programming</li>
-  <li>🐱 I love Cats: <a href="http://gatogatogatogatogatogato.rf.gd/index.php" loading="lazy" target="_blank" rel="noopener">click here</a></li>
+  <li>🔭 Atualmente, estou procurando minha primeira oportunidade de emprego na área</li>
+  <li>🌱 Atualmente estou estudando mais sobre a área de TI</li>
+  <li>📫 Como me contatar: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardogabrielgomes6@gmail.com</a></li>
+  <li>👯 Estou procurando colaborar na criação de aplicativos que facilitem a vida das pessoas</li>
+  <li>🤔 Estou procurando ajuda com programação e sobre a área de TI</li>
+  <li>🐱 Adoro gatos: <a href="http://gatogatogatogatogatogato.rf.gd/index.php" loading="lazy" target="_blank" rel="noopener">click here</a></li>
 </ul>
 <p align="right">
 <table width="100%">
@@ -14,7 +14,7 @@
 Sou graduado em <strong>Análise e Desenvolvimento de Sistemas - EAD</strong> na <strong>UniCesumar</strong> e atualmente estou estou estudando <strong>Técnico em Desenvolvimento de Sistemas</strong> no <strong>Senai - CTM</strong>, estou focando em aprender sobre desenvolvimento web tanto no Frontend quanto no Backend.
 </p>
 <p>
-No tempo livre, gosto de jogar jogos como R.E.P.O, BlazBlue e outros jogos Coop. Caso queira conversar sinta-se livre para entrar em contato comigo.
+No tempo livre gosto de jogar com meus amigos. Caso queira conversar sinta-se livre para entrar em contato comigo.
 </p>
   <div align="center">
     <img width="80%" loading="lazy" src="https://github.com/Ricardo13321/Ricardo13321/blob/main/watermarked-72931d89-1e5e-405e-8be4-9e29f33b5f33.gif?raw=true">
