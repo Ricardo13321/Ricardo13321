@@ -5,7 +5,7 @@
   <li>📫 Como me contatar: <a href="mailto:ricardogabrielgomes6@gmail.com">ricardogabrielgomes6@gmail.com</a></li>
   <li>👯 Estou procurando colaborar na criação de aplicativos que facilitem a vida das pessoas</li>
   <li>🤔 Estou procurando ajuda com programação e sobre a área de TI</li>
-  <li>🐱 Adoro gatos: <a href="http://gatogatogatogatogatogato.rf.gd/index.php" loading="lazy" target="_blank" rel="noopener">click here</a></li>
+  <li>🐱 Adoro gatos: <a href="http://gatogatogatogatogatogato.rf.gd" loading="lazy" target="_blank" rel="noopener">click here</a></li>
 </ul>
 <p align="right">
 <table width="100%">
