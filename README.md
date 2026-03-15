@@ -11,13 +11,13 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 <p>
-Sou graduado em <strong>Análise e Desenvolvimento de Sistemas - EAD</strong> na <strong>UniCesumar</strong> e atualmente estou estou estudando <strong>Técnico em Desenvolvimento de Sistemas</strong> no <strong>Senai - CTM</strong>, estou focando em aprender sobre desenvolvimento web tanto no Frontend quanto no Backend.
+Sou graduado em <strong>Análise e Desenvolvimento de Sistemas - EAD</strong> na <strong>UniCesumar</strong> e atualmente estou focando em aprender sobre desenvolvimento web tanto no Frontend quanto no Backend.
 </p>
 <p>
 No tempo livre gosto de jogar com meus amigos. Caso queira conversar sinta-se livre para entrar em contato comigo.
 </p>
   <div align="center">
-    <img width="80%" loading="lazy" src="https://github.com/Ricardo13321/Ricardo13321/blob/main/watermarked-72931d89-1e5e-405e-8be4-9e29f33b5f33.gif?raw=true">
+    <img width="80%" loading="lazy" src="https://media1.tenor.com/m/PqK0Z1bkC8AAAAAC/meme.gif?raw=true">
   </div>
     <h2>Tecnologias e Ferramentas</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
